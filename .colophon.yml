@@ -1,0 +1,23 @@
+version: 4.0
+
+id: casa-npm-package
+uid: [uid]
+
+about:
+  title: casa-npm-package
+  description: heading component for the casa project
+
+contacts:
+  - type: Project Owner
+    name: casa-npm-package
+    email: [email]
+
+references:
+  - title: git
+    description: Source Code
+    uri: https://github.com/telus/casa-npm-package.git
+
+environments:
+  - type: git
+    title: NPM Package
+    uri: https://www.npmjs.com/package/@telus/casa-npm-package
